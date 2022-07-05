@@ -1,0 +1,8 @@
+.content {
+    /* top and bottom paddings are 10px */
+    /* right and left paddings are 20px */
+    padding: 10px 20px; 
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    margin-top: 65px;
+}
